@@ -1,6 +1,6 @@
 # Back-end ServiçosApp
 ## Funcionalidade
-O projeto consiste em uma aplicação para contratação de variados tipos de serviços (em produção)
+O projeto consiste em uma aplicação para contratação de variados tipos de serviços (em desenvolvimento)
 
 ## Tecnologias
 
