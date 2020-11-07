@@ -37,5 +37,6 @@ $ yarn ou $ npm install
 
 # Após a configuração basta iniciar a nossa aplicação
 $ yarn dev:server ou $ npm dev:server
+
 # Aplicação rodando!!!
 ```
